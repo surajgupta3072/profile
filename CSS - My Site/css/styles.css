@@ -1,0 +1,98 @@
+.topmostcontainer{
+  background: white;
+  padding-top: 100px;
+  padding-bottom: 100px;
+/*border : solid 10px;
+padding: 20px;
+  margin: 0px;
+  height: 200px;
+  width: 200px;*/
+}
+.profile{
+  background-color: #ffc2b4
+}
+.skills{
+  background-color: #8fd6e1;
+  padding-bottom: 100px;
+  padding-top: 10px;
+}
+
+.contact-me{
+  background-color: #adeecf;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.achievements{
+  background-color: #c0e218;
+}
+body {
+  text-align: center;
+font-family: 'Comfortaa', cursive;
+line-height: 2;
+}
+
+hr {
+  border: dotted black 6px;
+  border-bottom: none;
+  width: 5%;
+
+}
+h1 {
+
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size:100px;
+}
+h2{font-family: 'Sacramento', cursive;
+font-size: 50px;
+padding-bottom: 10px;
+}
+h3{font-family:'Roboto Mono', monospace;
+font-size: 40px;}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.rainbow1{
+  position: absolute;
+  left: 100px;
+
+}
+
+.rainbow2{
+  position: absolute;
+  right: 100px;
+
+}
+a{
+  margin: 10px 20px;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
